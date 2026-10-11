@@ -1,14 +1,14 @@
 {
-  "name": "My Christ-Centered Life Tracker",
-  "short_name": "Christ Tracker",
-  "description": "A Christ-centered spiritual growth, scripture study, repentance, and service tracker.",
-  "start_url": "./christ_centered_life_tracker.html",
+  "name": "Abide — Daily Discipleship Companion",
+  "short_name": "Abide",
+  "description": "A gentle daily companion for scripture, service, well-being, and becoming more like Jesus Christ.",
+  "start_url": "./abide.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#eef1f3",
-  "theme_color": "#416b84",
-  "orientation": "portrait",
+  "background_color": "#f5f1e8",
+  "theme_color": "#f5f1e8",
   "icons": [
-    {"src":"icon-180.png","sizes":"180x180","type":"image/png","purpose":"any maskable"},
-    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+    { "src": "icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
   ]
 }
